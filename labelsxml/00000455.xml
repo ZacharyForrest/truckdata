@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>00000455.jpg</filename>
+	<path>/home/zach/tinytrucks/images/00000455.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>124</xmin>
+			<ymin>735</ymin>
+			<xmax>225</xmax>
+			<ymax>766</ymax>
+		</bndbox>
+	</object>
+</annotation>
